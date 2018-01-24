@@ -1,7 +1,6 @@
 # mastering-ember-continuous-integration
 
-[![Travis](https://travis-ci.org/randallmorey/mastering-ember-continuous-integration.svg?branch=master)][travis-link] 
-[travis-link]: https://travis-ci.org/randallmorey/mastering-ember-continuous-integration
+[![Travis](https://travis-ci.org/randallmorey/mastering-ember-continuous-integration.svg?branch=master)](https://travis-ci.org/randallmorey/mastering-ember-continuous-integration)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
