@@ -1,8 +1,8 @@
 {
-  "name": "mastering-ember-continuous-integration",
+  "name": "mastering-frontend-continuous-integration",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for mastering-ember-continuous-integration goes here",
+  "description": "Small description for mastering-frontend-continuous-integration goes here",
   "license": "MIT",
   "author": "",
   "directories": {

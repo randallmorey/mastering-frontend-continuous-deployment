@@ -1,6 +1,6 @@
-# mastering-ember-continuous-integration
+# mastering-frontend-continuous-integration
 
-[![Travis](https://travis-ci.org/randallmorey/mastering-ember-continuous-integration.svg?branch=master)](https://travis-ci.org/randallmorey/mastering-ember-continuous-integration)
+[![Travis](https://travis-ci.org/randallmorey/mastering-frontend-continuous-integration.svg?branch=master)](https://travis-ci.org/randallmorey/mastering-frontend-continuous-integration)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
@@ -17,7 +17,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd mastering-ember-continuous-integration`
+* `cd mastering-frontend-continuous-integration`
 * `npm install`
 
 ## Running / Development

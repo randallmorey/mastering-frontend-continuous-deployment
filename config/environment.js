@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'mastering-ember-continuous-integration',
+    modulePrefix: 'mastering-frontend-continuous-integration',
     environment,
     rootURL: '/',
     locationType: 'auto',
