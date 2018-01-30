@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'mastering-frontend-continuous-integration',
+    modulePrefix: 'mastering-frontend-continuous-deployment',
     environment,
     rootURL: '/',
     locationType: 'auto',

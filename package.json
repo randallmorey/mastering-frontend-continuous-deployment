@@ -1,8 +1,8 @@
 {
-  "name": "mastering-frontend-continuous-integration",
+  "name": "mastering-frontend-continuous-deployment",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for mastering-frontend-continuous-integration goes here",
+  "description": "Small description for mastering-frontend-continuous-deployment goes here",
   "license": "MIT",
   "author": "",
   "directories": {
