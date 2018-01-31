@@ -25,6 +25,7 @@ env:
 
 before_install:
   - npm config set spin false
+  - npm install -g travis-ci-cloudfront-invalidation
 
 script:
   - npm run lint:js
@@ -53,3 +54,6 @@ deploy:
     acl: public_read
     on:
       branch: master
+
+after_deploy:
+  - if [[ $TRAVIS_BRANCH = "master" ]]; then travis-ci-cloudfront-invalidation -a $AWS_ACCESS_KEY_ID -s $AWS_SECRET_ACCESS_KEY -c $AWS_CLOUDFRONT_ID_PROD -i '/*' -b $TRAVIS_BRANCH -p $TRAVIS_PULL_REQUEST; fi
